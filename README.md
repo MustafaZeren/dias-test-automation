@@ -31,8 +31,8 @@ hepsiburada-automation/
 ## 🚀 Kurulum
 ### 1️⃣ Projeyi Klonlayın
 ```sh
-git clone https://github.com/kullanici/hepsiburada-automation.git
-cd hepsiburada-automation
+git clone https://github.com/MustafaZeren/dias-test-automation.git
+cd dias-test-automation
 ```
 
 ### 2️⃣ Bağımlılıkları Yükleyin
